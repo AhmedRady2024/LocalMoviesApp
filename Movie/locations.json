@@ -1,0 +1,30 @@
+[
+  {
+    "id" : "century-cinema",
+    "name" : "Century Cinemas",
+    "image" : "century-cinema",
+    "latitude" : 30.181247,
+    "longitude" : 31.5099106
+  },
+  {
+    "id" : "galaxy-cinema",
+    "name" : "Galaxy Cinemas",
+    "image" : "galaxy-cinema",
+    "latitude" : 30.005334,
+    "longitude" : 31.518083
+  },
+  {
+    "id" : "star-cinema",
+    "name" : "Star Cinemas",
+    "image" : "star-cinema",
+    "latitude" : 30.040811,
+    "longitude" : 31.143596
+  },
+  {
+    "id" : "vox-cinema",
+    "name" : "VOX Cinemas",
+    "image" : "vox-cinema",
+    "latitude" : 30.062502,
+    "longitude" : 31.305897
+  }
+]

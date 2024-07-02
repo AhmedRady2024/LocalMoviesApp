@@ -1,0 +1,51 @@
+[
+  {
+    "id" : 1,
+    "name" : "cover- welad -rezk",
+    "text" :"Welad-Rizk |||",
+    "data" :"Adventure -Fantsy "
+  },
+  {
+    "id" : 2,
+    "name" : "cover- Bad-boys",
+    "text" :"Bad-Boys",
+    "data" :"Action-Funny"
+  },
+  {
+    "id" : 3,
+    "name" : "cover- the-lion-king",
+    "text" :"The-Lion-King",
+    "data" :"Animation-Fantsy"
+  },
+  {
+    "id" : 4,
+    "name" : "cover- esabet- elmax",
+    "text" :"Esabet- Elmax",
+    "data" :"Action-Drama"
+  },
+  {
+    "id" : 5,
+    "name" : "cover- furiosa-a-mad-max-sage",
+    "text" :"Furiosa-A-Mad-Max-Sage",
+    "data" : "Drama-Herror"
+  },
+  {
+    "id" : 6,
+    "name" : "cover- kingdom-of-the-planet-of-the-apse",
+    "text" :"Kingdom-Of-The-Planet-Of-The-Apse",
+    "data" :"Animation-Fantsy"
+  },
+  {
+    "id" : 7,
+    "name" : "cover- tarot",
+    "text" :"Tarot",
+    "data" :"Drama-Mistory"
+  }
+  ,
+  {
+    "id" : 8,
+    "name" : "cover-ahl-el- kahf",
+    "text" :"Ahl-El- Kahf",
+    "data" :"Adventure-Action"
+  }
+]
