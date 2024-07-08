@@ -15,14 +15,6 @@
 		C04B56922C336D4900C88CDF /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04B56912C336D4900C88CDF /* Test.swift */; };
 		C06BA44D2C31B57400D285D0 /* VideoPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06BA44C2C31B57400D285D0 /* VideoPlayer.swift */; };
 		C06BA44F2C31B5BE00D285D0 /* TrailerPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06BA44E2C31B5BE00D285D0 /* TrailerPlayerView.swift */; };
-		C06BA4592C31B67D00D285D0 /* sonic-the-hedgehog.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C06BA4512C31B67D00D285D0 /* sonic-the-hedgehog.mp4 */; };
-		C06BA45A2C31B67D00D285D0 /* uncharted.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C06BA4522C31B67D00D285D0 /* uncharted.mp4 */; };
-		C06BA45B2C31B67D00D285D0 /* top-gun-maverick.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C06BA4532C31B67D00D285D0 /* top-gun-maverick.mp4 */; };
-		C06BA45C2C31B67D00D285D0 /* moonfall.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C06BA4542C31B67D00D285D0 /* moonfall.mp4 */; };
-		C06BA45D2C31B67D00D285D0 /* men-in-black.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C06BA4552C31B67D00D285D0 /* men-in-black.mp4 */; };
-		C06BA45E2C31B67D00D285D0 /* morbius.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C06BA4562C31B67D00D285D0 /* morbius.mp4 */; };
-		C06BA45F2C31B67D00D285D0 /* jurassic-world-dominion.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C06BA4572C31B67D00D285D0 /* jurassic-world-dominion.mp4 */; };
-		C06BA4602C31B67D00D285D0 /* minions-the-rise-of-gru.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C06BA4582C31B67D00D285D0 /* minions-the-rise-of-gru.mp4 */; };
 		C06BA4622C323C4F00D285D0 /* CinemaAnnotition.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06BA4612C323C4F00D285D0 /* CinemaAnnotition.swift */; };
 		C06E29532C30BF0800E7D73B /* MovieDetailedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06E29522C30BF0800E7D73B /* MovieDetailedView.swift */; };
 		C09B38D92C2B0AFE0004444A /* movies.json in Resources */ = {isa = PBXBuildFile; fileRef = C09B38D52C2B0AFE0004444A /* movies.json */; };
@@ -55,14 +47,6 @@
 		C04B56912C336D4900C88CDF /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		C06BA44C2C31B57400D285D0 /* VideoPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayer.swift; sourceTree = "<group>"; };
 		C06BA44E2C31B5BE00D285D0 /* TrailerPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailerPlayerView.swift; sourceTree = "<group>"; };
-		C06BA4512C31B67D00D285D0 /* sonic-the-hedgehog.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sonic-the-hedgehog.mp4"; sourceTree = "<group>"; };
-		C06BA4522C31B67D00D285D0 /* uncharted.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = uncharted.mp4; sourceTree = "<group>"; };
-		C06BA4532C31B67D00D285D0 /* top-gun-maverick.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "top-gun-maverick.mp4"; sourceTree = "<group>"; };
-		C06BA4542C31B67D00D285D0 /* moonfall.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = moonfall.mp4; sourceTree = "<group>"; };
-		C06BA4552C31B67D00D285D0 /* men-in-black.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "men-in-black.mp4"; sourceTree = "<group>"; };
-		C06BA4562C31B67D00D285D0 /* morbius.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = morbius.mp4; sourceTree = "<group>"; };
-		C06BA4572C31B67D00D285D0 /* jurassic-world-dominion.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "jurassic-world-dominion.mp4"; sourceTree = "<group>"; };
-		C06BA4582C31B67D00D285D0 /* minions-the-rise-of-gru.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "minions-the-rise-of-gru.mp4"; sourceTree = "<group>"; };
 		C06BA4612C323C4F00D285D0 /* CinemaAnnotition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CinemaAnnotition.swift; sourceTree = "<group>"; };
 		C06E29522C30BF0800E7D73B /* MovieDetailedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailedView.swift; sourceTree = "<group>"; };
 		C09B38D52C2B0AFE0004444A /* movies.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = movies.json; sourceTree = "<group>"; };
@@ -120,7 +104,6 @@
 				C09B38E82C2B21790004444A /* Modles */,
 				C0338F372C29E5E800FCA1C0 /* components */,
 				C0338F362C29E5D700FCA1C0 /* View */,
-				C06BA4502C31B62600D285D0 /* Video */,
 				C0338F2E2C29E5B700FCA1C0 /* Preview Content */,
 			);
 			path = Movie;
@@ -161,21 +144,6 @@
 				C04B56912C336D4900C88CDF /* Test.swift */,
 			);
 			name = components;
-			sourceTree = "<group>";
-		};
-		C06BA4502C31B62600D285D0 /* Video */ = {
-			isa = PBXGroup;
-			children = (
-				C06BA4572C31B67D00D285D0 /* jurassic-world-dominion.mp4 */,
-				C06BA4552C31B67D00D285D0 /* men-in-black.mp4 */,
-				C06BA4582C31B67D00D285D0 /* minions-the-rise-of-gru.mp4 */,
-				C06BA4542C31B67D00D285D0 /* moonfall.mp4 */,
-				C06BA4562C31B67D00D285D0 /* morbius.mp4 */,
-				C06BA4512C31B67D00D285D0 /* sonic-the-hedgehog.mp4 */,
-				C06BA4532C31B67D00D285D0 /* top-gun-maverick.mp4 */,
-				C06BA4522C31B67D00D285D0 /* uncharted.mp4 */,
-			);
-			name = Video;
 			sourceTree = "<group>";
 		};
 		C09B38DD2C2B0B280004444A /* Data */ = {
@@ -269,21 +237,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C06BA4592C31B67D00D285D0 /* sonic-the-hedgehog.mp4 in Resources */,
-				C06BA45F2C31B67D00D285D0 /* jurassic-world-dominion.mp4 in Resources */,
-				C06BA4602C31B67D00D285D0 /* minions-the-rise-of-gru.mp4 in Resources */,
 				C09B38D92C2B0AFE0004444A /* movies.json in Resources */,
-				C06BA45A2C31B67D00D285D0 /* uncharted.mp4 in Resources */,
 				C09B38DC2C2B0AFE0004444A /* covers.json in Resources */,
 				C0338F302C29E5B700FCA1C0 /* Preview Assets.xcassets in Resources */,
 				C09B38DB2C2B0AFE0004444A /* locations.json in Resources */,
 				C0C48BD92C3304EE00F817EA /* Gallery.json in Resources */,
 				C0338F2D2C29E5B700FCA1C0 /* Assets.xcassets in Resources */,
-				C06BA45C2C31B67D00D285D0 /* moonfall.mp4 in Resources */,
-				C06BA45B2C31B67D00D285D0 /* top-gun-maverick.mp4 in Resources */,
 				C09B38DA2C2B0AFE0004444A /* trailers.json in Resources */,
-				C06BA45D2C31B67D00D285D0 /* men-in-black.mp4 in Resources */,
-				C06BA45E2C31B67D00D285D0 /* morbius.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
